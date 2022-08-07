@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I am Priyanka Saha
+
+- 🤔 I’m looking for giving my career a start.
+- 🌱 I completed my B.Tech from Narula Institute of Technology
+- 🔭 I have skills on
+    - ![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java)
+    -  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)
+- 😄 Pronouns: She/Her   
 
 <!--
 **Priyasaha11/Priyasaha11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
